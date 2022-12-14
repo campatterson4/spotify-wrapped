@@ -52,12 +52,12 @@ body {
     margin: 0 20px;
     position: relative;
     text-decoration: none;
-    color: var(--grey) !important;
+    color: var(--white) !important;
     
 }
 
 .navbar a:visited {
-    color: var(--grey);
+    color: var(--white);
 }
 
 .navbar a::before {
@@ -68,7 +68,7 @@ body {
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: var(--grey);
+    background-color: var(--white);
     transform: scaleX(0);
     transition: transform 0.3s ease;
 }
