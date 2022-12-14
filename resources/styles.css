@@ -2,6 +2,7 @@
     --green: #1DB954;
     --matte-black: #343434;
     --white: #FAF9F6;
+    --black: #28282b;
 }
 
 html,
@@ -17,6 +18,7 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
 }
+
 
 /* NAVBAR */
 
