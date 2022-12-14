@@ -33,7 +33,7 @@ body {
     text-transform: uppercase;
     font-style: italic;
     color: var(--black);
-    margin-right: 675px !important;
+    margin-right: 700px !important;
 }
 
 .navbar .flex {
@@ -56,8 +56,8 @@ body {
 }
 
 .nav-icon {
-    width: 45px;
-    height: 45px;
+    width: 40px;
+    height: 40px;
     margin: 0px 10px;
 }
 .navbar a:visited {
