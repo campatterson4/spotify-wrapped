@@ -24,7 +24,6 @@ body {
 /* NAVBAR */
 .navbar {
     background-color: var(--green);
-    color: var(--black);
     height: 10vh;
 }
 
@@ -33,7 +32,8 @@ body {
     font-weight: 900;
     text-transform: uppercase;
     font-style: italic;
-    margin: 10px 10px;
+    color: var(--black);
+    margin-right: 675px !important;
 }
 
 .navbar .flex {
@@ -53,9 +53,13 @@ body {
     position: relative;
     text-decoration: none;
     color: var(--white) !important;
-    
 }
 
+.nav-icon {
+    width: 45px;
+    height: 45px;
+    margin: 0px 10px;
+}
 .navbar a:visited {
     color: var(--white);
 }
