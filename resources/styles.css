@@ -1,5 +1,7 @@
 :root {
-
+    --green: #1DB954;
+    --matte-black: #343434;
+    --white: #FAF9F6;
 }
 
 html,
@@ -15,3 +17,6 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
 }
+
+/* NAVBAR */
+
