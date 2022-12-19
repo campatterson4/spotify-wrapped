@@ -55,11 +55,12 @@ body {
     color: var(--white) !important;
 }
 
-.nav-icon {
+/* .nav-icon {
     width: 40px;
     height: 40px;
     margin: 0px 10px;
-}
+} */
+
 .navbar a:visited {
     color: var(--white);
 }
